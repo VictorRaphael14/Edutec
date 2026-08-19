@@ -43,7 +43,6 @@ header {
         max-width: 90rem;
         margin: 0 auto;
         margin-top: -3rem;
-        text-align: right;
         margin-left: 60rem;
 
         a {
@@ -53,6 +52,20 @@ header {
         .pagina-atual {
             color: #38BDF8;
         }
+    }
+}
+
+hr {
+    margin-block: 5rem;
+    border-color: #0E2A47;
+}
+
+main {
+    max-width: 150rem;
+    margin: 0 auto;
+    
+    h1 {
+        color: #FFFFFF;
     }
 }
 
