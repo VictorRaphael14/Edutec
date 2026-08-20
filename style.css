@@ -66,6 +66,16 @@ main {
     
     h1 {
         color: #FFFFFF;
+        font-size: 8rem;
+    }
+    p {
+        color: #FFFFFF;
+    }
+    img {
+        width: 70rem;
+        display: block;
+        margin-left: auto;
+        margin-top: -30rem;
     }
 }
 
